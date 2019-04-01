@@ -1,0 +1,29 @@
+.table_head{
+    background-color: lightseagreen;
+    border: 2px solid black;
+}
+.reset_btn{
+
+    float:left;
+}
+
+td{
+    font-size: small;
+}
+
+
+th {
+    background-color: lightseagreen;
+}
+
+tr:nth-child(even) {background-color:#e6ffe6;}
+tr:nth-child(odd) {background-color: white}
+
+tr:hover td {
+    background-color: palegreen; /* or #000 */
+}
+
+table {
+  border: 1px solid black;
+}
+

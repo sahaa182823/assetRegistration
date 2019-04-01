@@ -1,0 +1,74 @@
+.clogo {
+    width: 52px;
+    height: 50px;
+}
+
+.cts-logo {
+    width: 100%;
+}
+
+#one {
+
+    color: black;
+
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#xyz {
+    /*background-image: url("./pictures/bg-img.jpg");*/
+    /*background-color: cadetblue;*/
+    /*width: 1365px;*/
+    /*height: 620px;*/
+    /*height: 100%;*/
+    /*width: 100%;
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100%;
+
+    background-size: cover;*/
+
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+
+textarea {
+    max-width: 100%;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+
+input {
+    max-width: 100%;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+
+#welcome-msg {
+    color: lavenderblush;
+    /*padding-left: 233px;*/
+}
+
+option {
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+a {
+    color: whitesmoke;
+}
+
+
+.table td {
+   text-align: center;   
+}
+
+#home-table{
+    border: 5px solid black !important;
+}

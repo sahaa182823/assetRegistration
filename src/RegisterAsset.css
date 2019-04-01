@@ -1,0 +1,36 @@
+label { display: inline-block; width: 210px; text-align: right; }
+
+
+#register_right{
+    
+    text-align: left;
+
+}
+
+.assettype{
+    font-size: 15px;
+    
+}
+
+.type_label{
+color: grey;
+font-size: 15px;
+text-align: center;
+}
+#type_select{
+    
+    color: red;
+    border-radius: 6px;
+    -webkit-appearance: menulist-button;
+
+    
+}
+strong  {
+    float: left;
+}
+
+.main_form{
+border: 3px solid lightblue;
+border-radius: 5px;
+background-color: lightblue;
+}

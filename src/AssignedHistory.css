@@ -1,0 +1,31 @@
+.table_head{
+    background-color: lightseagreen;
+    border: 2px solid black;
+}
+
+.date_range{
+    text-align: right;
+}
+date_range_text{
+    /*text-align: center;*/
+    /*border: 2px solid darkseagreen;*/
+    /*border-radius: 8px;*/
+    
+}
+
+tr:hover td {
+    background-color: palegreen; /* or #000 */
+}
+
+#organization{
+      -webkit-appearance: menulist-button;
+   height: 22px;
+   border-radius: 6px;
+}
+
+
+#AssetType{
+      -webkit-appearance: menulist-button;
+   height: 23px;
+   border-radius: 6px;
+}

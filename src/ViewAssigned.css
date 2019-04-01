@@ -1,0 +1,51 @@
+.col-sm-4{
+    text-align: right;
+    /*border: 2px solid darkseagreen;
+    border-radius: 8px;*/
+}
+
+
+.table_head{
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+tbody{
+     border: 2px solid black;
+
+}
+
+td{
+    font-size: small;
+}
+
+
+
+tr:hover td {
+    background-color: palegreen; /* or #000 */
+}
+
+.container{
+ 
+   width: 100%; 
+   width: 100vw;
+   margin: 0px;
+}
+
+/*.col-sm-1{
+    border: 1px solid blue;
+}
+
+.col-sm-2{
+    border: 1px solid blue;
+}
+
+.col-sm-3{
+    border: 1px solid blue;
+}
+.col-sm-4{
+    border: 1px solid blue;
+}
+.col-sm-5{
+    border: 1px solid blue;
+}*/
+

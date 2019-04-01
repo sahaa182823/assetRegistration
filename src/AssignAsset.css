@@ -1,0 +1,56 @@
+label { display: inline-block; width: 210px; text-align: right; }
+
+
+#register_right{
+    
+    text-align: left;
+
+}
+
+.assettype{
+    font-size: 15px;
+    
+}
+
+.type_label{
+
+font-size: 15px;
+}
+#type_select{
+    
+    color: black;
+    border-radius: 6px;
+    -webkit-appearance: menulist-button;
+   height: 30px;
+    
+}
+
+.left-body{
+   
+    text-align: center;
+}
+
+.right-body{
+ 
+    text-align: left;
+}
+
+
+.id_label{
+    float: right;
+    font-size: 15px;    
+}
+
+strong  {
+    float: left;
+}
+
+.container.mainForm {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid lightblue;
+border-radius: 5px;
+background-color: lightblue;
+}

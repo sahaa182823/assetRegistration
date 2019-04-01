@@ -1,0 +1,28 @@
+li{
+    background-color: lightseagreen;    
+}
+
+li NavLink{
+    color: black;
+        font: bold;
+      
+}
+
+.nav-tabs{
+     background-color: lightseagreen;  
+
+}
+
+b{
+    color: black;
+}
+ul.nav.nav-tabs{
+   
+   position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+    z-index: 99;
+    width: 100%;
+}
+
+
